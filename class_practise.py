@@ -23,7 +23,7 @@ class Car():
 avto=Car("Spark","jn",narx=70000)
 avto1=Car("Spark","jn",narx=70000)
 avto2=Car("Spark","jn",narx=70000)
+avto3=Car("Spark","jn",narx=70000)
 
 
 print(avto1.avto_soni())
-
